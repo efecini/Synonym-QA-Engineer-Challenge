@@ -11,3 +11,5 @@ I can still type it in. I shouldn't even be able to type minus to those fields.
 9. Not a problem but a product issue: user might have some previous orders that he can't remember the details of it which are waiting to be paid, so on the my orders page it would be better if there were some additional information about the channel in terms of receiving capacity.
 10. Channels' name must be typed by the user. Right now it is fixed.
 11. on the GET/btc api call, there are some informations missing regarding currency flags.
+12. On the pay now screen, when user clicks back, it takes us to the welcome screen instead of going back to review channel.
+13. There must be a limit on the channels that are waiting to be opened.

@@ -1,0 +1,7 @@
+1. Create a database for different type of inputs(Edge cases, Happy path, Negative Testing)
+2. Seperate all the functions and page variables in to different folders regarding their views in a Page Object Model(POM) fashion.
+3. Add many positive and negative test cases into the the playwright project to increase code coverage as much as I can.
+4. Add configuration so that we test all the automation project with different browsers.
+5. Configure the reporting tool so we understand what is wrong and what is wright.
+6. Add unit tests to the functions.
+7. Add comments to the main e2e test specs to that we are aware how the tests continue.

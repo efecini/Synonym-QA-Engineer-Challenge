@@ -27,6 +27,19 @@ test('User can create a channel', async ({ page }) => {
 
 test('User can pay for a channel', async ({ page }) => {
   //TBC
+  /*
+  Steps:
+  1. go to the main view.
+  2. add receiving capacity
+  3. add spending capacity
+  4. add the week information
+  5. click private channel button
+  6. check the information in the review channel page.
+  7. Click terms of services radio button
+  8. click pay now button.
+  9. Copy invoice and make the payments(BE functionality needed)
+  10. Wait for some time and check that channel is opened
+  */
 })
 
 test('User can go to the My orders page and pay for a channel that is waiting for payment', async ({
@@ -46,5 +59,11 @@ test('User can change the preferred currency ', async ({ page }) => {
 })
 
 test('User can change the preferred currency ', async ({ page }) => {
+  //TBC
+})
+
+test('User cannot have an open channel after the channel expiry date', async ({
+  page,
+}) => {
   //TBC
 })
