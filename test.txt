@@ -1,0 +1,20 @@
+E2E TESTS
+
+1. Users can see all relevant options regarding their new channels on the home screen.
+2. Users can change the relevant information for their upcoming channel depending on their preferences.
+3. Users can make their newly created channels to be private or public.
+4. After the user hit create channel button, that user can see all the information regarding their preferences.
+5. User can see the terms of services before paying.
+6. User can not pay if that user doesn't accept the terms.
+7. After accepting the terms, user must be able to pay with lightning or on-chain to create the channel.
+8. On the payment page, a proper and different LN invoice or and onchain address must be generated.
+9. On the payment page, user can see the total amount to pay and his order status depending on the payment.
+10. On the payment page, user can copy and paste both ln or on-chain address.
+11. When user is on the review channel page, that user can see the relevant information the he/she entered before.
+12. When user is on the review channel page, that user can pay for the channel from the pay now page.
+13. On the Menu page, there will be 4 items: New Channel, My orders, Settings, Support.
+14. Users can see his/her orders and the relevant information on the my orders page.
+15. Users can pay their previous orders which are not paid yet from the my orders list.
+16. Users can select their prefered currrency from the settings page.
+17. When users hits the support button, a mail pop-up should appear with the information to:support@synonym.to and Subject: Blocktank support
+18. Users can't open a channel with a receiving capacity less than 100,000 sats or more than 962,220 sats.
