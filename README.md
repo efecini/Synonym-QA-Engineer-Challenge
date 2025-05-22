@@ -8,7 +8,7 @@ Observations & Issues -> Observations&Issues.txt
 What would I do more if I had time -> MoreToBeDone.txt
 
 
-For test aoutomation project:
+For test automation project:
 
 Go to the pw-project folder and do these below:
 
