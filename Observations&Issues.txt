@@ -1,0 +1,13 @@
+Observations % Issues
+1. On the opening page, welcoming page's header should be "Create a New Channel" instead of My Channel because newbie users might be confused if the channel is already up or not.
+2. For all 3 input fields(Receiving capacity, balance, weeks), it is great that all these fields doesn't accept negative numbers,
+I can still type it in. I shouldn't even be able to type minus to those fields.
+3. On the New lightning channel page there must be a ? button near the private channel which gives users an explanation when public and private channels are.
+4. It would be great if I can click to Private channel text instead of clicking the actual radio button.
+5. When a user enters his/her channel preferences, clicks Create my channel button and comes back from the review channel page, those preferences disappear. They should be still in the input fields.
+6. On the review channel, for all inbound capacity, balance and total amount to pay, sats is missing.
+7. On the pay now view, sats is missing in the total amount to pay.
+8. On the pay now screen, clicking the question mark opens a helper about how to pay. It is hard to read because background is transparent. It must be matte black.
+9. Not a problem but a product issue: user might have some previous orders that he can't remember the details of it which are waiting to be paid, so on the my orders page it would be better if there were some additional information about the channel in terms of receiving capacity.
+10. Channels' name must be typed by the user. Right now it is fixed.
+11. on the GET/btc api call, there are some informations missing regarding currency flags.
